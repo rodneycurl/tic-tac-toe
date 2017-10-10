@@ -53,3 +53,7 @@ button.square {
 .game-info {
   margin-left: 20px;
 }
+
+.game-board {
+  text-align: center
+}
