@@ -1,5 +1,5 @@
 ## Tic Tac Toe
-I've created a tic-tac-toe game while learning about React via their intro to React tutorial.<br>
+I've created a tic-tac-toe game while learning about React via their [Intro to React Tutorial](https://reactjs.org/tutorial/tutorial.html).<br><br>
 This game lets you play tic-tac-toe, indicates when one player has won the game, stores the history of moves during the game, and allows players to jump back in time to see older versions of the game board.
 
 --
